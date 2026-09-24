@@ -1,0 +1,23 @@
+{
+  "repo": "virtual-clonedrive-suite-2026",
+  "product": "Virtual Clonedrive Suite 2026",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "virtual-clonedrive-suite",
+    "virtual-windows",
+    "system-tools-desktop",
+    "how-to-install-virtual",
+    "virtual-clonedrive-suite-desktop-package",
+    "virtual-workspace",
+    "virtual-2026",
+    "virtual-clonedrive-suite-pro-tools",
+    "virtual-suite",
+    "zentool-virtual"
+  ],
+  "site": "zentool.art"
+}
